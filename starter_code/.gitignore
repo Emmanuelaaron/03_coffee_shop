@@ -12,3 +12,5 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+Pipfile
+Pipfile.lock
